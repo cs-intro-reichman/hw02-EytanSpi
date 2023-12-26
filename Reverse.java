@@ -13,4 +13,5 @@ public class Reverse {
 		int mid = (l - 1) / 2; // for even lengthed Strings - mid will be the first out of the 2 centers
 		System.out.println("The middle character is " + s.charAt(mid));
 	}
+
 }
